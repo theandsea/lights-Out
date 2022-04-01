@@ -7,7 +7,7 @@ There are 3 ways to run the game: </p>
 3--download the official react platform(npx create-reat-app my-app), then copy the src files and replace the corresponding src files in /src. </p>
 </p> 
 </p> 
-</p>======================================================================
+</p>===========================================================================================</p>
 Features: </p>
 1. Real-time solution (click "Answer"). </p>
 2. History recording and retrieve. </p>
