@@ -1,5 +1,5 @@
 # lights Out
-lightsoff game developed in React.
+lightsoff game developed in React.</p>
 ![lightsout-game](https://user-images.githubusercontent.com/45749967/161233715-8f3ed4eb-eaf4-40b4-bab8-1a91df8447b4.png)
 </p>===========================================================================================</p>
 There are 3 ways to run the game: </p>
